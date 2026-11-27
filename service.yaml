@@ -1,0 +1,5 @@
+schema_version: 1
+id: ms-database-scanner
+kind: service
+summary: Repository for the Pitaiya database scanner.
+stack: [Go, Chi]
